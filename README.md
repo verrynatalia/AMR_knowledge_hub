@@ -3,6 +3,8 @@
 > [!WARNING]
 > The [export entries](https://docs.moodle.org/19/en/Export_glossary_entries) option adds random characters to the content.
 
+### Glossary: Methodologies for developing national treatment guidelines
+
 ``` xml
 <?xml version="1.0" encoding="UTF-8"?>
 <GLOSSARY>
@@ -297,3 +299,5 @@ support provided under the Action Plan will be guided by the latest developments
   </INFO>
 </GLOSSARY>
 ```
+
+### Glossary: Repository of antimicrobial treatment guidelines
